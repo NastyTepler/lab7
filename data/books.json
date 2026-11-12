@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Иван",
+    "surname": "Иванов",
+    "phone": "+79001112233",
+    "favoriteBooks": [
+      {"name": "Гордость и предубеждение", "author": "Jane Austen", "publishingYear": 1813, "isbn": "123", "publisher": "A"},
+      {"name": "1984", "author": "George Orwell", "publishingYear": 1949, "isbn": "456", "publisher": "B"}
+    ],
+    "subscribed": true
+  },
+  {
+    "name": "Петр",
+    "surname": "Петров",
+    "phone": "+79004445566",
+    "favoriteBooks": [
+      {"name": "Марсианин", "author": "Andy Weir", "publishingYear": 2011, "isbn": "789", "publisher": "C"}
+    ],
+    "subscribed": false
+  }
+]
